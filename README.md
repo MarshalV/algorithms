@@ -71,6 +71,6 @@ Feel free to contribute to this repository by adding more algorithms, optimizing
 
 ## License
 
-This repository is licensed under the X11 License - see the [LICENSE](LICENSE) file for details.
+This repository is licensed under the X11 License - see the [LICENSE](LICENSE.txt) file for details.
 
 Happy coding and algorithm exploring! 🚀
